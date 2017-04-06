@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "coligo.io",
+  "author": "Arpit",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.1",
@@ -14,12 +14,5 @@
     "mongoose": "4.2.9"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coligo-io/url-shortener-node-mongo-express.git"
-  },
-  "bugs": {
-    "url": "https://github.com/coligo-io/url-shortener-node-mongo-express/issues"
-  },
-  "homepage": "https://github.com/coligo-io/url-shortener-node-mongo-express#readme"
+ 
 }
