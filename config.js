@@ -3,9 +3,9 @@ var config = {};
 config.db = {};
 
 //webhost!
-config.webhost = 'https://agnes.io/';
+config.webhost = 'Your URL';
 
-config.db.host = '34.200.166.75';
+config.db.host = 'MONGO DB Connection';
 config.db.name = 'url_shortener';
 
 module.exports = config;
